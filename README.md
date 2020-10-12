@@ -5,6 +5,14 @@
 	<tite>我的第一个网页</tite>
 	<link href="styles/test.css"rel="stylesheet"type="text/css"/>
 </head>
+<head>
+<style>
+h1
+{
+text-shadow: 5px 5px 5px #FF0000;
+}
+</style>
+</head>
 <boby>
 	<h1>蝶恋花</h1>
 	<p>宋·苏轼
