@@ -13,8 +13,6 @@
 	<p>虽抱文章，开口谁亲。且陶陶，乐尽天真。几时归去，作个闲人。对一张琴，一壶酒，一溪云。</p>
 </boby>
 <boby>
-<img src="http://p5.itc.cn/q_70/images03/20200915/e3789953e6cb4dcdbe4b1e39cae05386.png">
-<img src="QQ图片20200829203733.jpg">
     <p>下面是一个指向远程音乐的超链接</p>
 <a href="https://y.qq.com/n/yqq/album/004TRGSn04W2so.html">超链接1</a>
     <p>下面是一个指向诗词赏析的超链接</p>
