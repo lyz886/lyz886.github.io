@@ -5,19 +5,12 @@
 	<tite>我的第一个网页</tite>
 	<link href="styles/test.css"rel="stylesheet"type="text/css"/>
 </head>
-<head>
-<style>
-h1
-{
-text-shadow: 5px 5px 5px #FF0000;
-}
-</style>
-</head>
 <boby>
-	<h1>蝶恋花</h1>
+	<h1>先来一首词</h1>
+	<h2>行香子</h2>
 	<p>宋·苏轼
-	<p>花褪残红青杏小。燕子飞时，绿水人家绕。枝上柳棉吹又少，天涯何处无芳草。</p>
-	<p>墙里秋千墙外道。墙外行人，墙里佳人笑。笑渐不闻声渐悄，多情却被无情恼。</p>
+	<p>清夜无尘，月色如银。酒斟时、须满十分。浮名浮利，虚苦劳神。叹隙中驹，石中火，梦中身。</p>
+	<p>虽抱文章，开口谁亲。且陶陶，乐尽天真。几时归去，作个闲人。对一张琴，一壶酒，一溪云。</p>
 </boby>
 <boby>
 <img src="http://p5.itc.cn/q_70/images03/20200915/e3789953e6cb4dcdbe4b1e39cae05386.png">
