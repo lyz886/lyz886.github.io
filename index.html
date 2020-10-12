@@ -14,7 +14,7 @@
 </boby>
 <boby>
 <img src="http://p5.itc.cn/q_70/images03/20200915/e3789953e6cb4dcdbe4b1e39cae05386.png">
-<img src="https://gss0.baidu.com/-fo3dSag_xI4khGko9WTAnF6hhy/zhidao/wh%3D600%2C800/sign=e3c986c11b3853438c9a8f27a3239c46/4d086e061d950a7bd4eb3b6901d162d9f3d3c945.jpg">
+<img src="QQ图片20200829203733.jpg">
     <p>下面是一个指向远程音乐的超链接</p>
 <a href="https://y.qq.com/n/yqq/album/004TRGSn04W2so.html">超链接1</a>
     <p>下面是一个指向诗词赏析的超链接</p>
