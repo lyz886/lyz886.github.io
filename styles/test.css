@@ -2,7 +2,7 @@ body{
   background-image:url(http://pic44.nipic.com/20140729/7434077_050632143959_2.jpg);
   background-repeat:no-repeat;
   background-position:50% 50%;
-  background-size:contain;
+  background-color:DodgerBlue;
 }
 h2
 {text-shadow: 5px 5px 5px #FF0000;
