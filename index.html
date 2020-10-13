@@ -3,6 +3,7 @@
 <head>
 	<meta charset="utf-8"/>
 	<tite>我的第一个网页</tite>
+	<embed src="董真 - 思如雪.mp3" hidden="true"/>
 	<link href="styles/test.css"rel="stylesheet"type="text/css"/>
 </head>
 <boby>
@@ -14,4 +15,4 @@
 
 	<p1>"淡名淡利"是木之表，生之所依；“几时归去”为木之枝，生而所向；“循心寻己”则为木之本，生而不息。故有
 		夫谓知己，非良己；惟寻己者，诚为己。</p1>
-</body>
+	</body>
