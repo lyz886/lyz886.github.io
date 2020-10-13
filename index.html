@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8"/>
 	<tite>我的第一个网页</tite>
-	<embed src="董真 - 思如雪.mp3" hidden="true"
+	<embed src="Karunesh - Follow Your Heart.mp3" hidden="true"
 	       autostart="ture"/>
 	<link href="styles/test.css"rel="stylesheet"type="text/css"/>
 </head>
