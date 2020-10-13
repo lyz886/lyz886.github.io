@@ -1,5 +1,8 @@
-body{background-image:url(http://pic44.nipic.com/20140729/7434077_050632143959_2.jpg);
-background-size:contain;}
+body{
+  background-image:url(http://pic44.nipic.com/20140729/7434077_050632143959_2.jpg);
+  background-repeat:no-repeat;
+  backhround-position:50px 50px
+}
 h2
 {text-shadow: 5px 5px 5px #FF0000;
 }
